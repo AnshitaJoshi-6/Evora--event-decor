@@ -43,11 +43,11 @@ This makes ÉVORA more than a simple decoration portfolio — it acts as a **min
 
 ÉVORA supports decoration ideas for:
 
-* 💍 Weddings
-* 🎂 Birthdays
-* ❤️ Anniversaries
-* 🎓 Graduations
-* 🎉 Private Events
+* Weddings
+* Birthdays
+* Anniversaries
+* Graduations
+* Private Events
 
 ---
 
