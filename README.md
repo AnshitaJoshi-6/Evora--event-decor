@@ -22,7 +22,7 @@ The main interactive feature, **Create Your Event**, allows users to select thei
 
 <img width="1887" height="972" alt="Screenshot 2026-10-06 224843" src="https://github.com/user-attachments/assets/a471f27a-6ff5-486f-8d0c-b815000a6007" />
 
-## ⭐ Key Feature
+##  Key Feature
 
 ### Create Your Event
 
@@ -39,7 +39,7 @@ The website then presents a customized setup including elements such as:
 This makes ÉVORA more than a simple decoration portfolio — it acts as a **mini event-planning experience**.
 
 
-## 🎊 Occasions
+##  Occasions
 
 ÉVORA supports decoration ideas for:
 
@@ -51,7 +51,7 @@ This makes ÉVORA more than a simple decoration portfolio — it acts as a **min
 
 ---
 
-## 🎨 Design Styles
+##  Design Styles
 
 Users can explore different aesthetics including:
 * Romantic
@@ -65,7 +65,7 @@ Users can explore different aesthetics including:
 
 
 
-## 📱 Features
+##  Features
 
 * Responsive design
 * Modern premium UI
@@ -80,7 +80,7 @@ Users can explore different aesthetics including:
 
 ---
 
-## 🎯 Goal
+##  Goal
 The goal of ÉVORA is to make event decoration planning simple, visual, and personalized, allowing users to get an idea of how their celebration could look before making an enquiry.
 
 
